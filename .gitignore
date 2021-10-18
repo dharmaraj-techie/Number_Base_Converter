@@ -1,0 +1,146 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter/task/build/
+/Number Base Converter/task/out/
+/Number Base Converter/task/out/production/classes/
+/Number Base Converter/task/out/test/classes/
+/Topics/BigDecimal/Average/out/
+/Topics/BigDecimal/Average/out/production/classes/
+/Topics/BigDecimal/Deposit/out/
+/Topics/BigDecimal/Deposit/out/production/classes/
+/Topics/BigDecimal/Round and power/out/
+/Topics/BigDecimal/Round and power/out/production/classes/
+/Topics/BigDecimal/Theory/out/
+/Topics/BigDecimal/Theory/out/production/classes/
+/Topics/BigInteger/Division/out/
+/Topics/BigInteger/Division/out/production/classes/
+/Topics/BigInteger/LCM/out/
+/Topics/BigInteger/LCM/out/production/classes/
+/Topics/BigInteger/Max/out/
+/Topics/BigInteger/Max/out/production/classes/
+/Topics/BigInteger/Simple expression/out/
+/Topics/BigInteger/Simple expression/out/production/classes/
+/Topics/BigInteger/Theory/out/
+/Topics/BigInteger/Theory/out/production/classes/
+/Topics/For loop and lists/Count occurrences/out/
+/Topics/For loop and lists/Count occurrences/out/production/classes/
+/Topics/For loop and lists/For loops task/out/
+/Topics/For loop and lists/For loops task/out/production/classes/
+/Topics/For loop and lists/The index of the first max/out/
+/Topics/For loop and lists/The index of the first max/out/production/classes/
+/Topics/For loop and lists/Theory/out/
+/Topics/For loop and lists/Theory/out/production/classes/
+/Topics/For loop and lists/Triples/out/
+/Topics/For loop and lists/Triples/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/Getting substrings/Exchange/out/
+/Topics/Getting substrings/Exchange/out/production/classes/
+/Topics/Getting substrings/Theory/out/
+/Topics/Getting substrings/Theory/out/production/classes/
+/Topics/If expression/Boxes/out/
+/Topics/If expression/Boxes/out/production/classes/
+/Topics/If expression/Check a number is positive/out/
+/Topics/If expression/Check a number is positive/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/If expression/Interval/out/
+/Topics/If expression/Interval/out/production/classes/
+/Topics/If expression/Knights/out/
+/Topics/If expression/Knights/out/production/classes/
+/Topics/If expression/Odd or even/out/
+/Topics/If expression/Odd or even/out/production/classes/
+/Topics/If expression/The max of two numbers without else-branch/out/
+/Topics/If expression/The max of two numbers without else-branch/out/production/classes/
+/Topics/If expression/Theory/out/
+/Topics/If expression/Theory/out/production/classes/
+/Topics/If expression/Triangle/out/
+/Topics/If expression/Triangle/out/production/classes/
+/Topics/Mutable list/Initializing a list/out/
+/Topics/Mutable list/Initializing a list/out/production/classes/
+/Topics/Mutable list/Initializing a mutable list of characters/out/
+/Topics/Mutable list/Initializing a mutable list of characters/out/production/classes/
+/Topics/Mutable list/Initializing a mutable list of longs/out/
+/Topics/Mutable list/Initializing a mutable list of longs/out/production/classes/
+/Topics/Mutable list/Swap/out/
+/Topics/Mutable list/Swap/out/production/classes/
+/Topics/Mutable list/Theory/out/
+/Topics/Mutable list/Theory/out/production/classes/
+/Topics/Named arguments/Perimeter/out/
+/Topics/Named arguments/Perimeter/out/production/classes/
+/Topics/Named arguments/Theory/out/
+/Topics/Named arguments/Theory/out/production/classes/
+/Topics/Null safety/Elvis throwing exceptions/out/
+/Topics/Null safety/Elvis throwing exceptions/out/production/classes/
+/Topics/Null safety/Theory/out/
+/Topics/Null safety/Theory/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Lucky number/out/
+/Topics/Processing strings/Lucky number/out/production/classes/
+/Topics/Processing strings/Move the first N characters/out/
+/Topics/Processing strings/Move the first N characters/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Processing strings/Parse url/out/
+/Topics/Processing strings/Parse url/out/production/classes/
+/Topics/Processing strings/The longest word/out/
+/Topics/Processing strings/The longest word/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/Processing strings/Theory/out/
+/Topics/Processing strings/Theory/out/production/classes/
+/Topics/Relational operators/Inbetween/out/
+/Topics/Relational operators/Inbetween/out/production/classes/
+/Topics/String arrays/Adding arrays/out/
+/Topics/String arrays/Adding arrays/out/production/classes/
+/Topics/String arrays/Theory/out/
+/Topics/String arrays/Theory/out/production/classes/
+/Topics/String arrays/Yet another array/out/
+/Topics/String arrays/Yet another array/out/production/classes/
+/Topics/While loops/Balance checker/out/
+/Topics/While loops/Balance checker/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/Squares of natural numbers/out/
+/Topics/While loops/Squares of natural numbers/out/production/classes/
+/Topics/While loops/The largest element/out/
+/Topics/While loops/The largest element/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
+/Topics/While loops/Theory/out/
+/Topics/While loops/Theory/out/production/classes/
+/Topics/While loops (1)/Balance checker/out/
+/Topics/While loops (1)/Balance checker/out/production/classes/
+/Topics/While loops (1)/Collatz conjecture/out/
+/Topics/While loops (1)/Collatz conjecture/out/production/classes/
+/Topics/While loops (1)/Squares of natural numbers/out/
+/Topics/While loops (1)/Squares of natural numbers/out/production/classes/
+/Topics/While loops (1)/The largest element/out/
+/Topics/While loops (1)/The largest element/out/production/classes/
+/Topics/While loops (1)/The length of the sequence/out/
+/Topics/While loops (1)/The length of the sequence/out/production/classes/
+/Topics/While loops (1)/Theory/out/
+/Topics/While loops (1)/Theory/out/production/classes/
+/Topics/Work with MutableLists/Empty/out/
+/Topics/Work with MutableLists/Empty/out/production/classes/
+/Topics/Work with MutableLists/Guard On The Gate/out/
+/Topics/Work with MutableLists/Guard On The Gate/out/production/classes/
+/Topics/Work with MutableLists/Playing with numbers/out/
+/Topics/Work with MutableLists/Playing with numbers/out/production/classes/
+/Topics/Work with MutableLists/Theory/out/
+/Topics/Work with MutableLists/Theory/out/production/classes/
+/Topics/Working with strings/N-th symbol/out/
+/Topics/Working with strings/N-th symbol/out/production/classes/
+/Topics/Working with strings/Name Card/out/
+/Topics/Working with strings/Name Card/out/production/classes/
+/Topics/Working with strings/The information about a person/out/
+/Topics/Working with strings/The information about a person/out/production/classes/
+/Topics/Working with strings/The number of tens/out/
+/Topics/Working with strings/The number of tens/out/production/classes/
+/Topics/Working with strings/The same line/out/
+/Topics/Working with strings/The same line/out/production/classes/
+/Topics/Working with strings/Theory/out/
+/Topics/Working with strings/Theory/out/production/classes/
